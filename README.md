@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 **Currently working on** a weather web application.
+- 🔭 **Currently working on** nothing! Searching for internships to put my skills to work in the real world!
 - 🤝 **Looking to collaborate on** Python, C#, or JavaScript projects.
 - 😼 **Currently learning** C#, Python, and JavaScript.
 - 🙀 A **fun fact** about me is that... uhmmm... hmmm... well you see... OH! So a **fun fact** about me is that..... you get what I'm saying right?
