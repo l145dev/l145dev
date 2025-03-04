@@ -1,7 +1,7 @@
 # 💫About Me :
-- 🔭 **Currently working on** improving my Front-End Development skills (JS ES6), programming (in C#) learning data structures and algorithms, and also picking up valuable data related skills (Python, Excel, SQL and PowerBI) at Thomas More University of Applied Sciences! Also actively searching for internships to put my skills to work in the real world!
-- 🤝 **Looking to collaborate on** Python, C#, or Web dev projects.
-- 😼 **Currently learning** C#, Python, and JavaScript (ES6).
+- 🔭 **Currently working on** improving my Front-End Development skills in React, and also picking up valuable data related skills (Python, Excel, SQL and PowerBI) at Thomas More University of Applied Sciences! Actively searching for internships to put my skills to work in the real world as a frontend developer, software developer or data analyst!
+- 🤝 **Looking to collaborate on** Software/web apps.
+- 😼 **Currently learning** JavaScript, TypeScript, Next.js, React, NodeJS.
 - 🙀 A **fun fact** about me is that my favorite car is the Porsche 918 Spyder! 
 
 ## 🌐Socials
