@@ -1,7 +1,7 @@
 # 💫About Me :
-- 🔭 **Currently working on** improving my Front-End Development skills in React, and also picking up valuable data related skills (Python, Excel, SQL and PowerBI) at Thomas More University of Applied Sciences! Actively searching for internships to put my skills to work in the real world as a frontend developer, software developer or data analyst!
+- 🔭 **Currently working on** [Airbnb for Campers](https://github.com/legelff/Airbnb-for-campers), improving my Front-End Development skills in React, and also picking up valuable data related skills (Python, Excel, SQL and PowerBI) at Thomas More University of Applied Sciences! Actively searching for internships to put my skills to work in the real world as a frontend developer, software developer or data analyst!
 - 🤝 **Looking to collaborate on** Software/web apps.
-- 😼 **Currently learning** JavaScript, TypeScript, Next.js, React, NodeJS.
+- 😼 **Currently learning** JavaScript, TypeScript, Next.js, React, NodeJS, Java, PostgreSQL.
 - 🙀 A **fun fact** about me is that my favorite car is the Porsche 918 Spyder! 
 
 ## 🌐Socials
