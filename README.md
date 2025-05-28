@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [LEntertainment](https://github.com/l145dev/lentertainment)
 
-- 🤝 I’m looking for help with **landing an internship lol**
+- 🤝 I’m looking for help with [Sandy](https://github.com/l145dev/sandy).
 
 - 👨‍💻 All of my projects are available at [https://l145.be/](https://l145.be/)
 
