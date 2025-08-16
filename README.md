@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l145dev&label=Profile%20views&color=0e75b6&style=flat" alt="l145dev" /> </p>
 
-- 🔭 I’m currently working on [LEntertainment](https://github.com/l145dev/lentertainment)
+- 🔭 I’m currently working on [Pickit Camera Selector](https://camera-selector.pickit3d.com/)
 
-- 🌱 I’m currently learning **React, NodeJS, Java**
+- 🌱 I’m currently learning **Chrome's Client-side AI**
 
 - 👯 I’m looking to collaborate on [LEntertainment](https://github.com/l145dev/lentertainment)
 
-- 🤝 I’m looking for help with [Sandy](https://github.com/l145dev/sandy).
+- 🤝 I’m looking for help with nothing atm!
 
 - 👨‍💻 All of my projects are available at [https://l145.be/](https://l145.be/)
 
 - 📫 How to reach me **aryan.shah@l145.be**
 
-- 📄 Know about my experiences [https://l145.be/assets/one_for_all_cv_eng-CSytD63N.pdf](https://l145.be/assets/one_for_all_cv_eng-CSytD63N.pdf)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Lj3evZr9Wq0hfbriKvPYj-S8YpE46gJF/view?usp=sharing)
 
 - ⚡ Fun fact **I really want a Porsche 918 Spyder!**
 
