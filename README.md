@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l145dev&label=Profile%20views&color=0e75b6&style=flat" alt="l145dev" /> </p>
 
-- 🔭 I’m currently working on [Pickit Camera Selector](https://camera-selector.pickit3d.com/)
+- 🔭 I’m currently working on [Unspend](https://github.com/l145dev/unspend)
 
 - 🌱 I’m currently learning **Chrome's Client-side AI**
 
 - 👯 I’m looking to collaborate on [LEntertainment](https://github.com/l145dev/lentertainment)
 
-- 🤝 I’m looking for help with nothing atm!
+- 🤝 I’m looking for help with [Unspend](https://github.com/l145dev/unspend)
 
 - 👨‍💻 All of my projects are available at [https://l145.be/](https://l145.be/)
 
