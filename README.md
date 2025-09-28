@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l145dev&label=Profile%20views&color=0e75b6&style=flat" alt="l145dev" /> </p>
 
-- 🔭 I’m currently working on [Unspend](https://github.com/l145dev/unspend)
+- 🔭 I’m currently working on [Unspend](https://github.com/l145dev/unspend), RAG Portfolio, Chess AI Engine
 
-- 🌱 I’m currently learning **Chrome's Client-side AI**
+- 🌱 I’m currently learning **Chrome's Client-side AI**, **Vector DB (Chroma)**, **RAG**
 
 - 👯 I’m looking to collaborate on [LEntertainment](https://github.com/l145dev/lentertainment)
 
