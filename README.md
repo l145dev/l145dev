@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aryan.shah@l145.be**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Lj3evZr9Wq0hfbriKvPYj-S8YpE46gJF/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://l145.be/assets/aryan_shah_cv-Cq9gn2RW.pdf)
 
 - ⚡ Fun fact **I really want a Porsche 918 Spyder!**
 
