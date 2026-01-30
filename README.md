@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l145dev&label=Profile%20views&color=0e75b6&style=flat" alt="l145dev" /> </p>
 
-- 🔭 I’m currently working on [Unspend](https://github.com/l145dev/unspend), RAG Portfolio, Chess AI Engine
+- 🔭 I’m currently working on Internship, Waffle, RAG Portfolio
 
-- 🌱 I’m currently learning **Chrome's Client-side AI**, **Vector DB (Chroma)**, **RAG**
+- 🌱 I’m currently learning **AI/ML on Azure**, **Mobile Application Development**, **RAG**
 
 - 👯 I’m looking to collaborate on [LEntertainment](https://github.com/l145dev/lentertainment)
 
-- 🤝 I’m looking for help with [Unspend](https://github.com/l145dev/unspend)
+- 🤝 I’m looking for help with [Reels to Youtube Uploader](https://github.com/l145dev/reels-to-yt-uploader)
 
 - 👨‍💻 All of my projects are available at [https://l145.be/](https://l145.be/)
 
 - 📫 How to reach me **aryan.shah@l145.be**
 
-- 📄 Know about my experiences: [My Resume](https://l145.be/assets/aryan_shah_cv-Cq9gn2RW.pdf)
+- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/aryan-shah-l145/)
 
 - ⚡ Fun fact **I really want a Porsche 918 Spyder!**
 
